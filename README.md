@@ -1,5 +1,10 @@
 # Bienvenido a la Wiki oficial de SpainRP
 
+# Tabla de Contenido
+1. [Que puedo encontrar aqui?](##Que puedo encontrar aqui?)
+2. [Por donde empezar?](##Por donde empezar?)
+
+
 ## Que puedo encontrar aqui?
 En esta wiki podras encontrar ayuda, tutoriales y mas.
 
